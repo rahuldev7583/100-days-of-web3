@@ -1,0 +1,33 @@
+# Resources
+
+### The History of Money (From Barter To Bitcoin)
+
+https://www.youtube.com/watch?v=yJfgWh1U-5w&t=383s
+
+### How is Money Created? – Everything You Need to Know
+
+https://www.youtube.com/watch?v=mzoX7zEZ6h4
+
+### Was Dropping The Gold Standard A Mistake? | Economics Explained
+
+https://www.youtube.com/watch?v=S-6WNmL26wE&t=544s
+
+### What Was the First Cryptocurrency?
+
+https://www.investopedia.com/tech/were-there-cryptocurrencies-bitcoin/#:~:text=David%20Chaum%20created%20eCash%20in,Bitcoin%20and%20influenced%20its%20creation.
+
+### Digital Currency
+
+https://en.wikipedia.org/wiki/Digital_currency
+
+### How To Make A Mint The Cryptography Of Anonymous Electronic Cash
+
+https://archive.org/details/CryptographyOfAnonymousElectronicCash
+
+### Crypto in the ’90s: The Unofficial History of Cryptocurrency
+
+https://dailycoin.com/crypto-90s-unofficial-history-cryptocurrency
+
+### Where Did Bitcoin Come From? – The True Story
+
+https://www.youtube.com/watch?v=W15A7Lf0_fI&t=555s
