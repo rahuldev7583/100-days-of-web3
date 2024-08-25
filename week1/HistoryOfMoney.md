@@ -64,12 +64,42 @@ On August 15, 1971, President Richard Nixon announced the suspension of the doll
 
 Since then, most countries have adopted fiat money systems, where the value of currencies is not directly linked to gold or any other commodity.
 
+## Problems with Fiat Currency
+
+Recent economic crises have exposed significant flaws in fiat system, particularly when combined with controversial government interventions like bailouts.
+
+### Inflation: The Silent Wealth Eroder
+
+One of the most persistent issues with fiat money is inflation. As governments print more currency to meet various needs, the value of existing money decreases. This "hidden tax" disproportionately affects those with fixed incomes or savings, quietly eroding purchasing power over time.
+
+### The Bailout Conundrum
+
+The 2008 financial crisis brought the concept of "too big to fail" into the spotlight. Governments around the world, particularly in the US, implemented massive bailouts to prevent economic collapse. While these actions may have averted immediate disaster, they've created long-term issues:
+
+Moral Hazard: By rescuing failing institutions, governments implicitly encourage risky behavior. Banks and corporations may take excessive risks, knowing they'll likely be saved if things go south.
+
+Wealth Inequality: Bailouts often benefit large corporations and wealthy individuals while average citizens face the consequences of economic downturns.
+
+Debt Burden: Government bailouts are typically financed through increased national debt, placing a long-term burden on taxpayers.
+
+Market Distortion: Interventions can prevent necessary market corrections, propping up inefficient companies and sectors.
+
+### The Trust Factor
+
+Fiat currency relies heavily on trust in the government and financial institutions. However, bailouts and other interventions can erode this trust, potentially destabilizing the entire system. As people lose faith in traditional financial structures, alternative systems like cryptocurrencies gain traction.
+
 ## The Decentraliazation of Money
 
 ### Origins of Decentralized Money
 
-The origins of the decentralization of money can be traced back to the 1980s and 1990s, with the work of several influential thinkers and cryptographers. Economist Friedrich Hayek proposed the denationalization of money in his 1976 book "The Denationalisation of Money." Hayek argued for privately issued currencies competing against
-state-issued fiat currencies. The paper titled "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" was published in 1996 by the National Security Agency (NSA). It is a technical paper that explores the concept of anonymous electronic cash using cryptographic techniques. The paper discusses how digital cash could be implemented securely and anonymously, providing a foundation for many ideas that later contributed to the development of cryptocurrencies like Bitcoin. In 1999, Nobel Economy Prize recipient Milton Friedman spoke of the Internet and how it would be a significant force in reducing the role of government. “The one thing that is missing but will soon be developed is a reliable e-cash, a method whereby on the Internet you can transfer funds from A to B without them knowing each other.” Before Bitcoin, there were attempts to create digital currencies like DigiCash (founded by David Chaum) and Bit Gold (proposed by Nick Szabo). These projects laid the groundwork for decentralized money by exploring cryptographic methods to secure and verify transactions without a central authority.
+The origins of the decentralization of money can be traced back to the 1980s and 1990s, with the work of several influential thinkers and cryptographers.
+
+Economist Friedrich Hayek proposed the denationalization of money in his 1976 book "The Denationalisation of Money." Hayek argued for privately issued currencies competing against
+state-issued fiat currencies.
+
+The paper titled "How to Make a Mint: The Cryptography of Anonymous Electronic Cash" was published in 1996 by the National Security Agency (NSA). It is a technical paper that explores the concept of anonymous electronic cash using cryptographic techniques. The paper discusses how digital cash could be implemented securely and anonymously, providing a foundation for many ideas that later contributed to the development of cryptocurrencies like Bitcoin.
+
+In 1999, Nobel Economy Prize recipient Milton Friedman spoke of the Internet and how it would be a significant force in reducing the role of government. “The one thing that is missing but will soon be developed is a reliable e-cash, a method whereby on the Internet you can transfer funds from A to B without them knowing each other.” Before Bitcoin, there were attempts to create digital currencies like DigiCash (founded by David Chaum) and Bit Gold (proposed by Nick Szabo). These projects laid the groundwork for decentralized money by exploring cryptographic methods to secure and verify transactions without a central authority.
 
 ### The Cypherpunk Movement
 
@@ -90,7 +120,7 @@ In the 1998, computer scientist Nick Szabo proposed the concept of "Bit Gold," w
 
 ### Wei Dai and B-Money (1998):
 
-In 1998, an anonymous developer using the name Wei Dai proposed an "anonymous, distributed electronic cash system" called B-money. Dai suggested two different protocols, including one that required a broadcast channel that was both synchronous and unjammable. Ultimately, B-money was never successful and it differed from Bitcoin in many ways. Nonetheless, it was also an attempt at an anonymous, private, and secure electronic cash system.
+In 1998, Wei Dai proposed an "anonymous, distributed electronic cash system" called B-money. Dai suggested two different protocols, including one that required a broadcast channel that was both synchronous and unjammable. Ultimately, B-money was never successful and it differed from Bitcoin in many ways. Nonetheless, it was also an attempt at an anonymous, private, and secure electronic cash system.
 
 In the B-money system, digital pseudonyms would be used to transfer currency through a decentralized network. The system even included a means for contract enforcement in-network without using a third party. Although Wei Dai proposed a whitepaper for B-money, it was ultimately unable to garner enough attention for a successful launch.
 
