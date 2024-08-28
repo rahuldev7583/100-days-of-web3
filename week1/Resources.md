@@ -31,3 +31,31 @@ https://dailycoin.com/crypto-90s-unofficial-history-cryptocurrency
 ### Where Did Bitcoin Come From? – The True Story
 
 https://www.youtube.com/watch?v=W15A7Lf0_fI&t=555s
+
+### But how does bitcoin actually work?
+
+https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=881s4
+
+### Proof-of-Stake (vs proof-of-work)
+
+https://www.youtube.com/watch?v=M3EFi_POhps
+
+### Proof-of-stake (PoS)
+
+https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+
+### Proof of History: A Clock for Blockchain
+
+https://medium.com/solana-labs/proof-of-history-a-clock-for-blockchain-cf47a61a9274
+
+### Bitcoin.org
+
+https://bitcoin.org/en/
+
+### ethereum.org
+
+https://ethereum.org/en/
+
+### Solana.com
+
+https://solana.com/
