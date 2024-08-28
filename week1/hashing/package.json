@@ -1,0 +1,15 @@
+{
+  "name": "hashing",
+  "version": "1.0.0",
+  "description": "This project provides a simple implementation of hashing algorithms, with a focus on SHA256 (Secure Hash Algorithm 256-bit).",
+  "main": "generateHash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
