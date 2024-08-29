@@ -1,0 +1,15 @@
+{
+  "name": "encoding",
+  "version": "1.0.0",
+  "description": "Encoding is the process of converting data from one form to another. In computing, this often involves transforming human-readable text or raw binary data into a format that can be easily stored, transmitted, or processed by computers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^6.0.0"
+  }
+}
