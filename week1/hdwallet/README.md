@@ -85,8 +85,9 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/hdwallet-project.git
-cd hdwallet-project
+git clone git@github.com:rahuldev7583/100-days-of-web3.git
+
+cd week1/hdwallet
 
 2. Install dependencies
 
